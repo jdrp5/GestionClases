@@ -1,0 +1,14 @@
+C:\Users\57316\source\repos\GestionClases\obj\Debug\GestionClases.csprojAssemblyReference.cache
+C:\Users\57316\source\repos\GestionClases\obj\Debug\GestionClases.csproj.CoreCompileInputs.cache
+C:\Users\57316\source\repos\GestionClases\bin\Debug\GestionClases.exe.config
+C:\Users\57316\source\repos\GestionClases\bin\Debug\GestionClases.exe
+C:\Users\57316\source\repos\GestionClases\bin\Debug\GestionClases.pdb
+C:\Users\57316\source\repos\GestionClases\obj\Debug\GestionClases.exe
+C:\Users\57316\source\repos\GestionClases\obj\Debug\GestionClases.pdb
+C:\Users\Admin\source\repos\GestionClases\obj\Debug\GestionClases.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\GestionClases\obj\Debug\GestionClases.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GestionClases\obj\Debug\GestionClases.exe
+C:\Users\Admin\source\repos\GestionClases\obj\Debug\GestionClases.pdb
+C:\Users\Admin\source\repos\GestionClases\bin\Debug\GestionClases.exe.config
+C:\Users\Admin\source\repos\GestionClases\bin\Debug\GestionClases.exe
+C:\Users\Admin\source\repos\GestionClases\bin\Debug\GestionClases.pdb
